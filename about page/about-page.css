@@ -1,0 +1,264 @@
+.about-page-container {
+  min-height: 100vh;
+}
+
+.about-page-about-page {
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.about-page-perpustakaan2 {
+  top: 489px;
+  left: 0px;
+  width: 1852px;
+  height: 759px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-perpustakaan1 {
+  top: 112px;
+  left: 0px;
+  width: 1852px;
+  height: 1136px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-rectangle1 {
+  top: -111px;
+  left: 0px;
+  width: 1852px;
+  height: 223px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-rectangle10 {
+  top: 36px;
+  left: 362px;
+  width: 117px;
+  height: 39px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 42px;
+}
+
+.about-page-text {
+  top: 36px;
+  left: 235px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-text02 {
+  top: 36px;
+  left: 373px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-rectangle8 {
+  top: 112px;
+  left: 0px;
+  width: 1852px;
+  height: 961px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-rectangle9 {
+  top: 800px;
+  left: 0px;
+  width: 1852px;
+  height: 271px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-materialsymbolsarrowback {
+  top: 146px;
+  left: 38px;
+  width: 66px;
+  height: 66px;
+  position: absolute;
+}
+
+.about-page-libra-read-logo2 {
+  top: 146px;
+  left: 800px;
+  width: 247px;
+  height: 230px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-text04 {
+  top: 420px;
+  left: 500px;
+  color: rgba(255, 255, 255, 1);
+  width: 841px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-text19 {
+  top: 815px;
+  left: 38px;
+  color: rgba(0, 0, 0, 1);
+  width: 147px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-phinstagramlogo {
+  top: 855px;
+  left: 31px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+
+.about-page-materialsymbolsaddcalloutline {
+  top: 905px;
+  left: 31px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+
+.about-page-icoutlineemail {
+  top: 955px;
+  left: 31px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+
+.about-page-text21 {
+  top: 860px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-text23 {
+  top: 910px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-text25 {
+  top: 960px;
+  left: 82px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+
+.about-page-logo-telkom-universitypng3430x11741 {
+  top: 859px;
+  left: 1520px;
+  width: 292px;
+  height: 100px;
+  position: absolute;
+  border-color: transparent;
+}
+
+.about-page-libra-read-logo3 {
+  top: 14px;
+  left: 78px;
+  width: 89px;
+  height: 82px;
+  position: absolute;
+  border-color: transparent;
+}
